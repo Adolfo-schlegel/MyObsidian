@@ -41,3 +41,8 @@ En el caso de querer abrir otra terminal para crear otro usuario mysql podemos h
 ````bash
  foo@bar:~$ Docker  run --name MiOtraBaseDeDatos -p 7777:3306 mysql -e MYSQL_ROOT_PASSWORD=adolfo123
  ````
+
+*Para ver todos los contenedores que se estan ejecutando
+````bash
+foo@bar:~$ Docker ps
+````
