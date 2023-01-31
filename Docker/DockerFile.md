@@ -4,3 +4,7 @@ El archivo DokerFile es un arhcivo de configuracion de doker, sirve para crear u
 ¿Para que sirve?
 Sirve para poder pasarselo a nuestros amigos asi ellos pueden tener la misma configuracion de nuestro proyecto y no tengan que descargarse mysql, node, mongodb por separado, ya que dentro del archivo tambien podemos agregar que paquetes queremos instalar de nuestro proyecto
 
+.dockerignore
+Se pueden ignorar carpetas que no se desean agregar, por ejemplo; las carpetas bin y obj en c# o la carpeta node_modules en node son carpetas que se generan automaticamente donde se instalan las dependencias que tenemos, por ende es mejor ignorarlas ya que le vamos a decir a docker file que instale esas dependencias por nosotros
+
+
