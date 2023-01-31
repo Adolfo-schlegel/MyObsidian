@@ -46,3 +46,4 @@ En el caso de querer abrir otra terminal para crear otro usuario mysql podemos h
 ````bash
 foo@bar:~$ Docker ps
 ````
+
