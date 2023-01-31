@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "84e3fd1e4539525c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/Docker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "549bc90476940c58",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,9 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9402fa68bc4c84a0",
+  "active": "549bc90476940c58",
   "lastOpenFiles": [
     "Docker/Docker.md",
+    "Docker/Comandos.md",
+    "Pasted image 20230131095632.png",
     "Untitled.md",
     "MyObsidian/README.md"
   ]

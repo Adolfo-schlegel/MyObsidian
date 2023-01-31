@@ -1,3 +1,6 @@
-//Para ver las imagenes instaladas
->docker images 
+Para ver las imagenes instaladas
 
+ ```` ```console 
+ foo@bar:~$ Docker Images
+ foo
+  ``` ````
