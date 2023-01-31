@@ -16,9 +16,10 @@ foo@bar:~$ Pull mysql
 
 #Ejemplo -> Mysql
 
-<!-- OL -->
-1. Pull mysql
-2. Docker run -e MYSQL_ROOT_PASSWORD=adolfo123 --name mymysql mysql 
+*Para desplegar una imagen de docker default
+````bash
+ foo@bar:~$ Docker run -e MYSQL_ROOT_PASSWORD=adolfo123 --name mymysql mysql 
+ ````
 
 En este caso creamos un usuario en sql solo para un contenedor
 
