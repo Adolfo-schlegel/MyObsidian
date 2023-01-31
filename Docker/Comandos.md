@@ -33,3 +33,10 @@ Esto nos abrira una consola dentro de un sistema linux dentro del contenedor
 ````bash
  foo@bar:~$ mysql -u root -p adolfo123
  ````
+
+En el caso de querer abrir otra terminal para crear otro usuario mysql podemos hacer lo siguiente:
+
+*Para correr desplegar mysql con otro usuario
+````bash
+ foo@bar:~$ Docker  run --name MiOtraBaseDeDatos -p 7777:3306 mysql -e MYSQL_ROOT_PASSWORD=adolfo123
+ ````
