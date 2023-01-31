@@ -14,29 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "0603a001a2805c3e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b92b86be20eb122c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/Docker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Docker/Docker.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -163,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b92b86be20eb122c",
+  "active": "84e3fd1e4539525c",
   "lastOpenFiles": [
+    "Docker/Docker.md",
     "Untitled.md",
     "MyObsidian/README.md"
   ]
