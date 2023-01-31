@@ -23,7 +23,7 @@ foo@bar:~$ Pull mysql
 
 En este caso creamos un usuario en sql solo para un contenedor
 
-*Para ejecutar programas de docker en modo interactivo
+*Para ejecutar programas de docker en modo interactivo, osea para meterte al contenedor y ver las version de mysql que esta corriendo
 ````bash
  foo@bar:~$ Docker exec -it mymysql bash
  ````
