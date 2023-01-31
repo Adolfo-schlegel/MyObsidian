@@ -8,3 +8,7 @@ foo@bar:~$ Pull mysql
  foo@bar:~$ Docker Images
 ````
 
+*Para descargar la imagen/instalador en un docker
+````bash
+ foo@bar:~$ Docker run hello-world
+ ````
