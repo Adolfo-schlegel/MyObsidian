@@ -59,3 +59,15 @@ foo@bar:~$ Docker rm id_container
 ````bash
 foo@bar:~$ Docker ps -a
 ````
+*Correr container
+````bash
+foo@bar:~$ Docker start <container name/id>
+````
+*Correr container y que muestre informacion
+````bash
+foo@bar:~$ Docker start -i <container name/id>
+````
+*Stop container
+````bash
+foo@bar Docker stop <container name/id>
+````
