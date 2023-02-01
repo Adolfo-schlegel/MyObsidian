@@ -50,3 +50,7 @@ foo@bar:~$ Docker ps
 ````bash
 foo@bar:~$ Docker rm id_container
 ````
+*Containers activos
+````bash
+foo@bar:~$ Docker ps -a
+````
