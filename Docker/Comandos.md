@@ -28,6 +28,11 @@ En este caso creamos un usuario en sql solo para un contenedor
  foo@bar:~$ Docker exec -it mymysql bash
  ````
 
+*Para ejecutar programas de docker en modo no interacitvo
+````bash
+ foo@bar:~$ docker exec -it <container name>
+ ````
+
 Esto nos abrira una consola dentro de un sistema linux dentro del contenedor
 
 *Para hacer login en mysql
