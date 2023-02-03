@@ -7,4 +7,5 @@ Sirve para poder pasarselo a nuestros amigos asi ellos pueden tener la misma con
 .dockerignore
 Se pueden ignorar carpetas que no se desean agregar, por ejemplo; las carpetas bin y obj en c# o la carpeta node_modules en node son carpetas que se generan automaticamente donde se instalan las dependencias que tenemos, por ende es mejor ignorarlas ya que le vamos a decir a docker file que instale esas dependencias por nosotros
 
+Este archivo copia los archivos necesarios para le despliegue de la imagen de docker, tambien se indican los puertos en que va a correr y las paltaformas que va a utilizar 
 

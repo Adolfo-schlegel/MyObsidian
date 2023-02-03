@@ -30,9 +30,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "04e36999f861b766",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/Netcore api Dockerization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66287f2bbb8383b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/Docker compose.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76653125470d28b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/Mysql Dockerization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Comandos.md",
+                "file": "Docker/Docker compose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Comandos.md",
+                "file": "Docker/Docker compose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Comandos.md"
+                "file": "Docker/Docker compose.md"
               }
             }
           }
@@ -159,11 +195,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22773b84a28e83d5",
+  "active": "66287f2bbb8383b0",
   "lastOpenFiles": [
-    "Docker/DockerFile.md",
-    "Docker/Docker.md",
+    "Docker/Netcore api Dockerization.md",
     "Docker/Comandos.md",
+    "Docker/Docker.md",
+    "Docker/DockerFile.md",
+    "Docker/Mysql Dockerization.md",
     "2023-01-31.md",
     "Untitled.canvas",
     "Pasted image 20230131095632.png",
