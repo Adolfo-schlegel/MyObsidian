@@ -1,0 +1,1 @@
+En el caso de que visitemos pelado.tienda.com y en nuestro servidor intente resolver este host y no pueda ya que no tenemos ningun sitio configurado para mostrar con ese nombre, nos mandara a site donde tengamos configurado default_server en el puerto 80

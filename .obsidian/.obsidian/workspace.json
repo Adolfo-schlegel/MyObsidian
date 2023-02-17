@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "0153f8b5541d416d",
+    "id": "17d35422cf257d89",
     "type": "split",
     "children": [
       {
-        "id": "c768b09dd012cb0f",
+        "id": "b2053d413d33b917",
         "type": "tabs",
         "children": [
           {
-            "id": "7ca99ce7c8485b4c",
+            "id": "de0b01efe96cd47d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OpenSsl server/Configuracion.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9e7c16a20d5f5f0f",
+    "id": "65817004a16c3cba",
     "type": "split",
     "children": [
       {
-        "id": "b81d5b11040c18fc",
+        "id": "20e5b813b5e3bbcc",
         "type": "tabs",
         "children": [
           {
-            "id": "9402fa68bc4c84a0",
+            "id": "8db506ae78c5ff85",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "63b1b6b4fe0eba10",
+            "id": "608f1afda5b06f1d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "8f633b48227efd1a",
+            "id": "e99ba2c89746fb9d",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -72,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "b09d00a59891788f",
+    "id": "5280e6138610d0de",
     "type": "split",
     "children": [
       {
-        "id": "90ecae51e227bcb8",
+        "id": "7519a7be74ddafba",
         "type": "tabs",
         "children": [
           {
-            "id": "b5e52b7d7032f8ab",
+            "id": "fa339d3e6a430d95",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpenSsl server/Configuracion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "9dd984a5d736d982",
+            "id": "e0b64e49f2e353ed",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OpenSsl server/Configuracion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d3c6da009fabac92",
+            "id": "8b0cc171777863f6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,13 +114,11 @@
             }
           },
           {
-            "id": "ac5ff63252d97a18",
+            "id": "653f66736f95d080",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "OpenSsl server/Configuracion.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,17 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ca99ce7c8485b4c",
-  "lastOpenFiles": [
-    "OpenSsl server/ConfigFirewall.md",
-    "OpenSsl server/Configuracion.md",
-    "Nginx server/Configuracion.md",
-    "Nginx server/DefaultServer.md",
-    "Docker/Docker.md",
-    "Docker/Comandos.md",
-    "Docker/Netcore api Dockerization.md",
-    "Untitled.md",
-    "Untitled.canvas",
-    "Pasted image 20230131095632.png"
-  ]
+  "active": "de0b01efe96cd47d",
+  "lastOpenFiles": []
 }
