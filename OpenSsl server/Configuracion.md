@@ -50,14 +50,16 @@ You must configure the Ubuntu Linux firewall called ufw. Here is how open or al
  foo@bar:~$  sudo ufw status
 ````
 
-## Connectio
+## Localhost Connection
 * Conectarse al servidor
 ````bash
  foo@bar:~$  ssh dolphin@dolphin-desktop@192.168.1.10
 ````
-* Conectarse al servidor
+
+## Remote Connection
+* Conectarse al servidor Remote
 ````bash
- foo@bar:~$  ssh dolphin@dolphin-desktop@192.168.1.10
+ foo@bar:~$  ssh dolphin@dolphin-desktop@<Public IPV4>
 ````
 
 
