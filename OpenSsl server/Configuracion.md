@@ -57,7 +57,10 @@ You must configure the Ubuntu Linux firewall called ufw. Here is how open or al
 ````
 
 ## Remote Connection
-Para conetctarte de forma remota a tu servidor que esta corriendo sshd, necesitas abrir un puerto en tu router. Normalmente en las configurariones del router existen 2 opciones; $$Port Forwarding y Remote Conection 
+Para conetctarte de forma remota a tu servidor que esta corriendo sshd, necesitas abrir un puerto en tu router. Normalmente en las configurariones del router existen 2 opciones; 
+
+$$Port Forwarding$$ se $$ Remote Conection $$
+
 * Conectarse al servidor Remote
 ````bash
  foo@bar:~$  ssh dolphin@dolphin-desktop@<Public IPV4>
