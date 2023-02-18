@@ -50,11 +50,19 @@ You must configure the Ubuntu Linux firewall called ufw. Here is how open or al
  foo@bar:~$  sudo ufw status
 ````
 
+## Connectio
+* Conectarse al servidor
+````bash
+ foo@bar:~$  ssh dolphin@dolphin-desktop@192.168.1.10
+````
 * Conectarse al servidor
 ````bash
  foo@bar:~$  ssh dolphin@dolphin-desktop@192.168.1.10
 ````
 
+
+
+## Service Commands 
 * Stop service
 ````bash
  foo@bar:~$  sudo systemctl stop ssh.service
