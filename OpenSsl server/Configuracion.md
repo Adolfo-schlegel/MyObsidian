@@ -52,7 +52,7 @@ You must configure the Ubuntu Linux firewall called ufw. Here is how open or al
 
 * Conectarse al servidor
 ````bash
- foo@bar:~$  ssh dolphin@dolphin-desktop@192.168.1.255
+ foo@bar:~$  ssh dolphin@dolphin-desktop@192.168.1.10
 ````
 
 * Stop service
