@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenSsl server/Configuracion.md",
+                "file": "OpenSsl server/ConfigFirewall.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpenSsl server/Configuracion.md",
+                "file": "OpenSsl server/ConfigFirewall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OpenSsl server/Configuracion.md",
+                "file": "OpenSsl server/ConfigFirewall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OpenSsl server/Configuracion.md"
+                "file": "OpenSsl server/ConfigFirewall.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "7ca99ce7c8485b4c",
   "lastOpenFiles": [
+    "OpenSsl server/Configuracion.md",
     "OpenSsl server/ConfigFirewall.md",
     "Nginx server/DefaultServer.md",
     "Nginx server/Configuracion.md",
-    "OpenSsl server/Configuracion.md",
     "Docker/Docker.md",
     "Docker/Comandos.md",
     "Docker/Netcore api Dockerization.md",
