@@ -149,9 +149,9 @@
   "active": "7ca99ce7c8485b4c",
   "lastOpenFiles": [
     "OpenSsl server/ConfigFirewall.md",
-    "OpenSsl server/Configuracion.md",
-    "Nginx server/Configuracion.md",
     "Nginx server/DefaultServer.md",
+    "Nginx server/Configuracion.md",
+    "OpenSsl server/Configuracion.md",
     "Docker/Docker.md",
     "Docker/Comandos.md",
     "Docker/Netcore api Dockerization.md",
