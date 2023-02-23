@@ -31,5 +31,5 @@ The most important is;
 ## Logs:
 
 ````bash
- foo@bar:~$  sudo nano /etc/fail2ban/jail.conf
+ foo@bar:~$  sudo nano /var/log/fail2ban.log
 ````
