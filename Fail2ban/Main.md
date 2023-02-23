@@ -24,10 +24,10 @@ If u enter the password to many times and the service block your ip, u can stop 
 ````
 
 The most important is;
-+ Bantime: the time that the user was ban
-+ Port: the port where the service will working
-+ MaxRetry: the number of times that the user retry the password
-+ FindTime: Time to wait for each counts of retry
++ Bantime = 10m : the time that the user was ban
++ Port = ssh: the port where the service will working
++ MaxRetry = 5: the number of times that the user retry the password
++ FindTime 10m: Time to wait for each counts of retry
 + Enabled : Can be true or false 
 
 ## Logs:
