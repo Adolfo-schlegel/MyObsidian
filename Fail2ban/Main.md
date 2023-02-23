@@ -25,4 +25,5 @@ If u enter the password to many times and the service block your ip, u can stop 
 
 The most important is;
 Bantime: the time that the user was ban
-Port: the port where the service will 
+Port: the port where the service will working
+MaxRetry: the number of times that 
