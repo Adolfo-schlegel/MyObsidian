@@ -4,5 +4,10 @@ What is Fail2Ban used for?
 
 ### Install :
 ````bash
- foo@bar:~$  sudo systemctl reload ssh.service
+ foo@bar:~$  sudo apt-get install fail2ban
+````
+
+### Start :  
+````bash
+ foo@bar:~$  sudo serv
 ````
