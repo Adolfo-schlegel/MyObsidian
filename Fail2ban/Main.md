@@ -9,5 +9,10 @@ What is Fail2Ban used for?
 
 ### Start :  
 ````bash
- foo@bar:~$  sudo serv
+ foo@bar:~$  sudo service fail2ban status
+````
+
+### Stop :  
+````bash
+ foo@bar:~$  sudo service fail2ban stop 
 ````
