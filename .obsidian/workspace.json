@@ -171,8 +171,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82c539c1e4781e26",
+  "active": "9402fa68bc4c84a0",
   "lastOpenFiles": [
+    "Fail2ban",
     "OpenSsl server/Configuracion.md",
     "OpenSsl server/Commands.md",
     "Docker/Commands.md",
