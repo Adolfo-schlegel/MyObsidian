@@ -17,3 +17,8 @@ If u enter the password to many times and the service block your ip, u can stop 
 ````bash
  foo@bar:~$  sudo service fail2ban stop   
 ````
+
+### Config :  
+````bash
+ foo@bar:~$  nan
+````
