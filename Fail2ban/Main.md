@@ -30,9 +30,13 @@ The most important is;
 + FindTime: Time to wait for each counts of retry
 + Enabled : Can be true or false 
 
-
 ## Logs:
 
 ````bash
  foo@bar:~$  sudo nano /var/log/fail2ban.log
+````
+
+### Start service:
+````bash
+ foo@bar:~$  sudo systemctl enable fail2ban.service
 ````
