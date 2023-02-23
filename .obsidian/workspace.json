@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "06948606f176367e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fail2ban/Main.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpenSsl server/Commands.md",
+                "file": "Fail2ban/Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OpenSsl server/Commands.md",
+                "file": "Fail2ban/Main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OpenSsl server/Commands.md"
+                "file": "Fail2ban/Main.md"
               }
             }
           }
@@ -171,11 +183,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9402fa68bc4c84a0",
+  "active": "06948606f176367e",
   "lastOpenFiles": [
+    "OpenSsl server/Commands.md",
+    "Fail2ban/Main.md",
     "Fail2ban",
     "OpenSsl server/Configuracion.md",
-    "OpenSsl server/Commands.md",
     "Docker/Commands.md",
     "OpenSsl server/ConfigFirewall.md",
     "Nginx server/Configuracion.md",

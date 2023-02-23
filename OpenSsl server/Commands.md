@@ -1,4 +1,4 @@
-##                             Service Commands 
+##                           Service Commands 
 * Stop service
 ````bash
  foo@bar:~$  sudo systemctl stop ssh.service
