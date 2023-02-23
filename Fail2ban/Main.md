@@ -14,5 +14,5 @@ What is Fail2Ban used for?
 
 ### Stop :  
 ````bash
- foo@bar:~$  sudo service fail2ban stop 
+ foo@bar:~$  sudo service fail2ban stop   
 ````
