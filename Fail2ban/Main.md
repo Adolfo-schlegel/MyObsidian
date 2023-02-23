@@ -23,4 +23,6 @@ If u enter the password to many times and the service block your ip, u can stop 
  foo@bar:~$  sudo nano /etc/fail2ban/jail.conf
 ````
 
-the most important i
+The most important is;
+Bantime: the time that the user was ban
+Port: the port where the service will 
