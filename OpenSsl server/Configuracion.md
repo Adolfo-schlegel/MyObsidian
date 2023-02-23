@@ -59,7 +59,7 @@ You must configure the Ubuntu Linux firewall called ufw. Here is how open or al
 ## Remote Connection
 Para conetctarte de forma remota a tu servidor que esta corriendo sshd, necesitas abrir un puerto en tu router. Normalmente en las configurariones del router existen 2 opciones; 
 
-$$Port Forwarding$$ Es utilizado para que alguien de la outside world pueda entrar a nuestro router $$ Remote Conection $$
+$$Port Forwarding$$**Port forwarding allows remote computers, located on the Internet, to connect to a specific computer or service within a private local area network (LAN)**. Port forwarding rules are set on routers or other network devices that act as an Internet gateway for other computers in a local network.$$ Remote Conection $$
 Connection remote
 
 * Conectarse al servidor Remote
