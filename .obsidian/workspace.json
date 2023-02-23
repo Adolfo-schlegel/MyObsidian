@@ -23,14 +23,28 @@
             "id": "96f6faecacdd3fd1",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.15"
+                "file": "OpenSsl server/ConfigFirewall.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82c539c1e4781e26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenSsl server/Configuracion.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,14 +171,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "96f6faecacdd3fd1",
+  "active": "82c539c1e4781e26",
   "lastOpenFiles": [
+    "OpenSsl server/Commands.md",
+    "Docker/Commands.md",
     "OpenSsl server/ConfigFirewall.md",
+    "Nginx server/Configuracion.md",
     "OpenSsl server/Configuracion.md",
     "Nginx server/DefaultServer.md",
-    "Nginx server/Configuracion.md",
     "Docker/Docker.md",
-    "Docker/Comandos.md",
     "Docker/Netcore api Dockerization.md",
     "Untitled.md",
     "Untitled.canvas",
