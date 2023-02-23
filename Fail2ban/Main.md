@@ -12,7 +12,7 @@ What is Fail2Ban used for?
  foo@bar:~$  sudo service fail2ban status
 ````
 
-If u enter the password to many times and the service block your ip, u can sto
+If u enter the password to many times and the service block your ip, u can stop the service to reload 
 ### Stop :  
 ````bash
  foo@bar:~$  sudo service fail2ban stop   
