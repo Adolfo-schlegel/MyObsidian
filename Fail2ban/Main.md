@@ -20,5 +20,7 @@ If u enter the password to many times and the service block your ip, u can stop 
 
 ### Config :  
 ````bash
- foo@bar:~$  nan
+ foo@bar:~$  sudo nano /etc/fail2ban/jail.conf
 ````
+
+the most important i
