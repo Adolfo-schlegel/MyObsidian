@@ -50,7 +50,7 @@ foo@bar:~$ Sudo apt-get install openssh-server
  foo@bar:~$  sudo ufw status
 ````
 
-##                Localhost Connection
+##                                Localhost Connection
 * Conectarse al servidor
 ````bash
  foo@bar:~$  ssh dolphin@dolphin-desktop@192.168.1.10
@@ -66,34 +66,9 @@ Port forwarding allows remote computers, located on the Internet, to connect to 
 ![[RemoteAccesSSH.png]]
 Allow the remote connection to the computer but befeore you need configure a forward connection with an specific computer/local ip
 
-
-
-
-
-
-
-
 * Conectarse al servidor Remote
 ````bash
  foo@bar:~$  ssh dolphin@dolphin-desktop@<Public IPV4>
 ````
 
 
-
-## Service Commands 
-* Stop service
-````bash
- foo@bar:~$  sudo systemctl stop ssh.service
-````
-* Start service
-````bash
- foo@bar:~$  sudo systemctl start ssh.service
-````
-* Restart service
-````bash
- foo@bar:~$  sudo systemctl restart ssh.service
-````
-* Reload service
-````bash
- foo@bar:~$  sudo systemctl reload ssh.service
-````
