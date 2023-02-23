@@ -40,3 +40,7 @@ The most important is;
 ````bash
  foo@bar:~$  sudo systemctl enable fail2ban.service
 ````
+
+````bash
+ foo@bar:~$  sudo systemctl start fail2ban.service
+````
