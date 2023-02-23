@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "96f6faecacdd3fd1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ca99ce7c8485b4c",
+  "active": "96f6faecacdd3fd1",
   "lastOpenFiles": [
     "OpenSsl server/ConfigFirewall.md",
     "OpenSsl server/Configuracion.md",
