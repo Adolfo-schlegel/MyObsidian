@@ -27,6 +27,9 @@ The most important is;
 + Bantime: the time that the user was ban
 + Port: the port where the service will working
 + MaxRetry: the number of times that the user retry the password
++ FindTime: Time to wait for each counts of retry
++ Enabled : Can be true or false 
+
 
 ## Logs:
 
