@@ -44,3 +44,8 @@ The most important is;
 ````bash
  foo@bar:~$  sudo systemctl start fail2ban.service
 ````
+
+## Banned IP list:
+````bash
+ foo@bar:~$  sudo fail2ban-client status sshd
+````
