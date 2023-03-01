@@ -56,4 +56,3 @@ foo@bar:~$ Sudo apt-get install openssh-server
  foo@bar:~$  ssh dolphin@dolphin-desktop@192.168.1.10
 ````
 
-##                       

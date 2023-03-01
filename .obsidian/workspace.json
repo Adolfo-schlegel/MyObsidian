@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenSsl server/Configuracion.md",
+                "file": "OpenSsl server/Remote Connection.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpenSsl server/Configuracion.md",
+                "file": "OpenSsl server/Remote Connection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OpenSsl server/Configuracion.md",
+                "file": "OpenSsl server/Remote Connection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OpenSsl server/Configuracion.md"
+                "file": "OpenSsl server/Remote Connection.md"
               }
             }
           }
@@ -197,8 +197,8 @@
   },
   "active": "55407bca581fe658",
   "lastOpenFiles": [
-    "OpenSsl server/Remote Connection.md",
     "OpenSsl server/Configuracion.md",
+    "OpenSsl server/Remote Connection.md",
     "OpenSsl server/ConfigFirewall.md",
     "OpenSsl server/Commands.md",
     "Nginx server/Configuracion.md",
