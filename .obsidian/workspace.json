@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenSsl server/SSL Authentication.md",
+                "file": "OpenSsl server/Certificate Authentication.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpenSsl server/SSL Authentication.md",
+                "file": "OpenSsl server/Certificate Authentication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OpenSsl server/SSL Authentication.md",
+                "file": "OpenSsl server/Certificate Authentication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OpenSsl server/SSL Authentication.md"
+                "file": "OpenSsl server/Certificate Authentication.md"
               }
             }
           }
@@ -222,7 +222,7 @@
   "active": "91e04beb9b3f5712",
   "lastOpenFiles": [
     "OpenSsl server/Client Commands.md",
-    "OpenSsl server/SSL Authentication.md",
+    "OpenSsl server/Certificate Authentication.md",
     "Fail2ban/Main.md",
     "OpenSsl server/Service Commands.md",
     "OpenSsl server/Server Intaller.md",
