@@ -5,5 +5,5 @@ Generation key client:
  foo@bar:~$ ssh-keygen
 ````
 
-You can see the generated key in .ssh directory
+You can see the generated key in /.ssh directory
 
