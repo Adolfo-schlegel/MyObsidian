@@ -7,3 +7,4 @@ Generation key client:
 
 You can see the generated key in /.ssh directory
 
+Now you need send the identity to the server;
