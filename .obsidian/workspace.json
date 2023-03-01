@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenSsl server/Configuracion.md",
+                "file": "OpenSsl server/Server Intall.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenSsl server/Commands.md",
+                "file": "OpenSsl server/Service Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenSsl server/Configuracion.md",
+                "file": "OpenSsl server/Server Intall.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenSsl server/Configuracion.md",
+                "file": "OpenSsl server/Server Intall.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpenSsl server/Configuracion.md",
+                "file": "OpenSsl server/Server Intall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OpenSsl server/Configuracion.md",
+                "file": "OpenSsl server/Server Intall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OpenSsl server/Configuracion.md"
+                "file": "OpenSsl server/Server Intall.md"
               }
             }
           }
@@ -195,12 +195,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55407bca581fe658",
+  "active": "9402fa68bc4c84a0",
   "lastOpenFiles": [
-    "OpenSsl server/ConfigUbuntuFirewall.md",
     "OpenSsl server/Remote Connection.md",
-    "OpenSsl server/Configuracion.md",
-    "OpenSsl server/Commands.md",
+    "OpenSsl server/Service Commands.md",
+    "OpenSsl server/Server Intall.md",
+    "OpenSsl server/ConfigUbuntuFirewall.md",
     "Nginx server/Configuracion.md",
     "Nginx server/DefaultServer.md",
     "Fail2ban/Main.md",
