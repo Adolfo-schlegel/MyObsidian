@@ -6,7 +6,7 @@ Generation key client:
 ````
 >You can see the generated key in /.ssh directory
 
-Now you need send the identity to the server;
+Now you need send the identity to the server and enter the passwod only for this step;
 ````bash
  foo@bar:~$ ssh-copy-id root@192.168.1.2
 ````
