@@ -12,7 +12,7 @@ Generation key client:
 > -C is the tag name for the key that describe what is the server that you going to connect
 
 
-Now you need send the identity to the server and enter the passwod only for this step;
+Now you need to send the identity to the server and enter the passwod only for this step. It indicates to the server 
 ````bash
  foo@bar:~$ ssh-copy-id root@192.168.1.2
 ````
