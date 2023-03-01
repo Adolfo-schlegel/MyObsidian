@@ -6,10 +6,11 @@ Generation key client:
 ````bash
  foo@bar:~$ ssh-keygen -t ed25519 -f ~/.ssh/[filename] -C "[Useful Comment]"
 ````
+
 > -t is the algorym criptografic used
 > -f is the file directory where the id will be saved
-> -C is the tag name for t
->You can see the generated key in /.ssh directory
+> -C is the tag name for the key that describe what is the server that you going to connect
+
 
 Now you need send the identity to the server and enter the passwod only for this step;
 ````bash
