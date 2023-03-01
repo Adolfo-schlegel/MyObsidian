@@ -7,7 +7,9 @@ $$Port Forwarding$$
 Port forwarding allows remote computers, located on the Internet, to connect to a specific computer or service within a private local area network (LAN)**. Port forwarding rules are set on routers or other network devices that act as an Internet gateway for other computers in a local network.
 
 External host will accept all ip from the out side world, so we goin to put *  
-Internal host is the server that is running ssh serve
+Internal host is the server that is running ssh server
+External port is the port that the user going to use to connect to the server
+Internal host is the port where the server is run
 
 $$ Remote Conection $$
 
