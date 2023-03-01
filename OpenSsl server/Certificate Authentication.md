@@ -21,7 +21,7 @@ Now you need to send the identity to the server and enter the passwod only for t
  foo@bar:~$ ssh-copy-id root@192.168.1.2
 ````
 
-> -i ssh/filename indicates specific key file
+> -i ssh/filename indicates specific public key/identity file
 
 ## Server config ->
 
