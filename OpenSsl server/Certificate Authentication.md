@@ -4,9 +4,9 @@ Username and password authentication is based only on what the user knows (the p
 
 Generation key client:
 ````bash
- foo@bar:~$ ssh-keygen -t ed25519 -f ~/.ssh/[filename] -C "[useful Com]"
+ foo@bar:~$ ssh-keygen -t ed25519 -f ~/.ssh/[filename] -C "[Useful Comment]"
 ````
-
+-t is the algorym criptografic used
 >You can see the generated key in /.ssh directory
 
 Now you need send the identity to the server and enter the passwod only for this step;
