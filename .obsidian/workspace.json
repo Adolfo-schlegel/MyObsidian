@@ -186,11 +186,11 @@
   "active": "06948606f176367e",
   "lastOpenFiles": [
     "OpenSsl server/Commands.md",
+    "OpenSsl server/Configuracion.md",
+    "OpenSsl server/ConfigFirewall.md",
     "Fail2ban/Main.md",
     "Fail2ban",
-    "OpenSsl server/Configuracion.md",
     "Docker/Commands.md",
-    "OpenSsl server/ConfigFirewall.md",
     "Nginx server/Configuracion.md",
     "Nginx server/DefaultServer.md",
     "Docker/Docker.md",
