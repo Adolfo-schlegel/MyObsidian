@@ -4,7 +4,12 @@
 $$Port Forwarding$$
 ![[PortForwardingRuleSSH.png]]
 
-Port forwarding allows remote computers, located on the Internet, to connect to a specific computer or service within a private local area network (LAN)**. Port forwarding rules are set on routers or other network devices that act as an Internet gateway for other computers in a local network.$$ Remote Conection $$
+Port forwarding allows remote computers, located on the Internet, to connect to a specific computer or service within a private local area network (LAN)**. Port forwarding rules are set on routers or other network devices that act as an Internet gateway for other computers in a local network.
+
+External host will accept all ip from the out side world, so we 
+
+
+$$ Remote Conection $$
 
 ![[RemoteAccesSSH.png]]
 Allow the remote connection to the computer but befeore you need configure a forward connection with an specific computer/local ip
