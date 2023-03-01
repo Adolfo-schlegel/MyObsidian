@@ -10,7 +10,7 @@ External host will accept all ip from the out side world, so we goin to put *
 Internal host is the server that is running ssh server
 External port is the port that the user going to use to connect to the server
 Internal host is the port where the server is running, you can change it to more securety
-Protocol is the format that the server accept 
+Protocol is the format that the server accept incomming tcp package information
 
 $$ Remote Conection $$
 
