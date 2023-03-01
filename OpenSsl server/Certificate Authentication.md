@@ -4,7 +4,9 @@ Generation key client:
 ````bash
  foo@bar:~$ ssh-keygen
 ````
-
-You can see the generated key in /.ssh directory
+>You can see the generated key in /.ssh directory
 
 Now you need send the identity to the server;
+````bash
+ foo@bar:~$ ssh-copy-id root@192.168.1.2
+````
