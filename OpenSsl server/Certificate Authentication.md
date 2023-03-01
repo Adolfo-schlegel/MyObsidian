@@ -2,7 +2,12 @@ Username and password authentication is based only on what the user knows (the p
 
 ## Client config ->
 
-Generation key client:
+Auto Generation key client:
+````bash
+ foo@bar:~$ ssh-keygen 
+````
+
+Generation key client with params:
 ````bash
  foo@bar:~$ ssh-keygen -t ed25519 -f ~/.ssh/[filename] -C "[Useful Comment]"
 ````
@@ -11,11 +16,12 @@ Generation key client:
 > -f is the file directory where the id will be saved
 > -C is the tag name for the key that describe what is the server that you going to connect
 
-
 Now you need to send the identity to the server and enter the passwod only for this step. It indicates to the server to use it and authorize your user login
 ````bash
  foo@bar:~$ ssh-copy-id root@192.168.1.2
 ````
+
+>
 
 ## Server config ->
 
