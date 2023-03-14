@@ -43,9 +43,9 @@ foo@bar:~$ nginx -s reload
 ## Comandos utiles para nginx ~~>
 
 ````bash
-foo@bar:~$ Sudo apt-get install nginx
+foo@bar:~$ Sudo systemctl enable nginx
 ````
 
 ````bash
-foo@bar:~$ Sudo apt-get install nginx
+foo@bar:~$ Sudo nginx -v
 ````
