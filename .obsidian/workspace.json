@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenSsl server/Certificate Authentication.md",
+                "file": "Nginx server/Configuracion.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpenSsl server/Certificate Authentication.md",
+                "file": "Nginx server/Configuracion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OpenSsl server/Certificate Authentication.md",
+                "file": "Nginx server/Configuracion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OpenSsl server/Certificate Authentication.md"
+                "file": "Nginx server/Configuracion.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "94580d14a65598e6",
   "lastOpenFiles": [
+    "Nginx server/DefaultServer.md",
+    "Nginx server/Configuracion.md",
     "OpenSsl server/Certificate Authentication.md",
     "OpenSsl server/ConfigUbuntuFirewall.md",
     "OpenSsl server/Client Commands.md",
@@ -155,8 +157,6 @@
     "OpenSsl server/Service Commands.md",
     "OpenSsl server/Server Intaller.md",
     "OpenSsl server/Remote Connection.md",
-    "Nginx server/Configuracion.md",
-    "Nginx server/DefaultServer.md",
     "Fail2ban",
     "Docker/Commands.md",
     "Docker/Docker.md",
