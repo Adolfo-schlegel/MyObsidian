@@ -38,7 +38,7 @@ foo@bar:~$ nginx -s reload
 ````
 
 11. El ultimo paso es configurar el archivo host de ubuntu para que haga un bind de nuestra direccion ip con el nombre de dominio que le acabamos de asignar 
-12. En /etc/host accedemos y al lado de nuetra ip ponemos el nombre de sitio, algo asi como 0.0.0.00 pelado.tienda.com
+12. En /etc/hosts accedemos y al lado de nuetra ip ponemos el nombre de sitio, algo asi como 0.0.0.00 pelado.tienda.com
 
 ## Comandos utiles para nginx ~~>
 
