@@ -4,83 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c768b09dd012cb0f",
+        "id": "e4e62de1647014be",
         "type": "tabs",
         "children": [
           {
-            "id": "7ca99ce7c8485b4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OpenSsl server/Server Intaller.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96f6faecacdd3fd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OpenSsl server/ConfigUbuntuFirewall.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82c539c1e4781e26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OpenSsl server/Service Commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06948606f176367e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OpenSsl server/Server Intaller.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55407bca581fe658",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OpenSsl server/Service Commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8cfaf6153aa49815",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OpenSsl server/Client Commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91e04beb9b3f5712",
+            "id": "94580d14a65598e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -91,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "91e04beb9b3f5712",
+  "active": "94580d14a65598e6",
   "lastOpenFiles": [
+    "OpenSsl server/Certificate Authentication.md",
     "OpenSsl server/ConfigUbuntuFirewall.md",
     "OpenSsl server/Client Commands.md",
-    "OpenSsl server/Certificate Authentication.md",
     "Fail2ban/Main.md",
     "OpenSsl server/Service Commands.md",
     "OpenSsl server/Server Intaller.md",
