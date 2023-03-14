@@ -18,7 +18,7 @@ foo@bar:~$ cd /etc/nginx/
 
 Los directorios sites-available y sites-enables son para tener mas ordenados nuestros sitios
 
-Dentro de sites-available vamos a tener configurados nuestros sitios, vamos a poder tener configurados nuestros virtual hosts, ademas nos sirve para posteriormente moverlos a sites enables y activarlos y desactivarlos sin necesidad de borrar todos los archivos de enables y tener que hacer un git clone otra vez pq es una paja
+Dentro de sites-available vamos a tener configurados nuestros sitios, vamos a poder tener configurados nuestros virtual hosts, ademas nos sirve para posteriormente moverlos a sites enables para activarlos y desactivarlos sin necesidad de borrar todos los archivos de enables y tener que hacer un git clone otra vez pq es una paja
 
 ### Crear un sitio dentro de sites-available:
 
