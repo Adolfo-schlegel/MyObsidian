@@ -22,4 +22,7 @@ Allow the remote connection to the computer but befeore you need configure a for
  foo@bar:~$  ssh dolphin@dolphin-desktop@<Public IPV4>
 ````
 
-
+* Saber la direcciones de ip
+````bash
+ foo@bar:~$ ip a
+````

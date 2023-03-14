@@ -148,6 +148,8 @@
   },
   "active": "94580d14a65598e6",
   "lastOpenFiles": [
+    "OpenSsl server/Server Intaller.md",
+    "OpenSsl server/Remote Connection.md",
     "OpenSsl server/Client Commands.md",
     "OpenSsl server/ConfigUbuntuFirewall.md",
     "OpenSsl server/Certificate Authentication.md",
@@ -155,8 +157,6 @@
     "Nginx server/DefaultServer.md",
     "Fail2ban/Main.md",
     "OpenSsl server/Service Commands.md",
-    "OpenSsl server/Server Intaller.md",
-    "OpenSsl server/Remote Connection.md",
     "Fail2ban",
     "Docker/Commands.md",
     "Docker/Docker.md",
